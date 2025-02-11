@@ -1,0 +1,42 @@
+[
+  {
+    "feedback": "I’ve noticed that the drainage system in our area is in terrible shape. Every time it rains, the streets get flooded, and it takes a long time for the water to go down. It’s causing major issues, and stagnant water has led to the spread of diseases. This problem urgently needs to be addressed.",
+    "category": "complaint"
+  },
+  {
+    "feedback": "It would be great if there were more streetlights in our neighborhood. Many streets are completely dark at night, which creates a security risk. More lighting would help improve safety and prevent accidents.",
+    "category": "suggestion"
+  },
+  {
+    "feedback": "Could you share the steps involved in applying for a new electricity connection? I'm interested in knowing what documents are needed, how long the approval process takes, and if there are any fees. Also, is there an option to apply online, or do I have to visit the office?",
+    "category": "inquiry"
+  },
+  {
+    "feedback": "I just wanted to acknowledge the excellent work the municipal team is doing to keep our neighborhood clean. The waste is being collected on time, and the streets are consistently tidy. These improvements are greatly appreciated.",
+    "category": "compliment"
+  },
+  {
+    "feedback": "The public transportation system is in need of improvement. Buses don’t follow their schedules, and many routes are overcrowded. This makes commuting a nightmare. The authorities should take action to make the bus services more reliable and efficient.",
+    "category": "complaint"
+  },
+  {
+    "feedback": "There’s a lack of parks and recreational spaces in the city. Creating more green areas where people can exercise, relax, or just enjoy the outdoors would be beneficial. These spaces would particularly help families and elderly residents.",
+    "category": "suggestion"
+  },
+  {
+    "feedback": "Can you tell me how to report illegal construction activities? I’ve seen some buildings being constructed without proper permissions and would like to file a complaint. Could you inform me about the necessary documentation and the right contact for this issue?",
+    "category": "inquiry"
+  },
+  {
+    "feedback": "The recent renovations at the metro stations are impressive! The stations are clean, modern, and much more user-friendly. It’s clear that the authorities have put a lot of effort into improving the metro system, and I’m really impressed by the changes.",
+    "category": "compliment"
+  },
+  {
+    "feedback": "There’s been a rise in power cuts in our area lately, and it’s becoming increasingly frustrating. The power outages happen without warning, and it’s especially difficult for people working from home or studying. The electricity board should create a better system for scheduled maintenance and inform us in advance.",
+    "category": "complaint"
+  },
+  {
+    "feedback": "It would be great if the city could launch a waste segregation campaign. Many residents don’t know how to properly separate recyclables from general waste. If we had clear instructions and separate bins, it would improve recycling and waste management overall.",
+    "category": "suggestion"
+  }
+]
