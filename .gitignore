@@ -2,3 +2,6 @@ data
 node_modules
 *_venv
 .env
+*.ignore*
+.venv
+.idea
