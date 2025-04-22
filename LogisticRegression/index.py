@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import classification_report, accuracy_score
 
 # Load datasets
-df_train = pd.read_csv("../data/datav3.csv")
+df_train = pd.read_csv("../data/datav6.csv")
 df_test = pd.read_csv("../data/test.csv")
 
 # Extract features and labels
